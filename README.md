@@ -65,4 +65,4 @@
 
 [requirements.yaml](https://github.com/Dmitriy-Garfild/HomeWork-AnsibleRoles/blob/main/requirements.yml)
 
-[site.yaml](.site.yml)
+[site.yaml](https://github.com/Dmitriy-Garfild/HomeWork-AnsibleRoles/blob/main/site.yml)
