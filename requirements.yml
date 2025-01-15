@@ -1,0 +1,10 @@
+- src: git@github.com:Dmitriy-Garfild/ansible-lighthouse.git
+  scm: git
+  version: "v0.1.0"
+  name: lighthouse
+
+- src: git@github.com:Dmitriy-Garfild/vector-role.git
+  scm: git
+  version: "v0.1.0"
+  name: vector
+
