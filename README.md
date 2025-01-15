@@ -63,6 +63,6 @@
 
 [vector-role](https://github.com/Dmitriy-Garfild/vector-role.git)
 
-[requirements.yaml](.requirements.yml)
+[requirements.yaml](https://github.com/Dmitriy-Garfild/HomeWork-AnsibleRoles/blob/main/requirements.yml)
 
 [site.yaml](.site.yml)
